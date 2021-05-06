@@ -1,13 +1,19 @@
 # Quiz-Manager-Web-App
-A Quiz Manager Web Application built with PHP, MYSQL and JavaScript
+A Quiz Manager Web Application built with PHP, MYSQL and JavaScript.
 
 This project was built during my apprenticeship and went towards my final grade. A brief was supplied, I then had to come up with a solution to meet the requirements. 
 
 In short, the application will be used to manage and view quizzes and their associated questions / answers. Three levels of user access allow different users to perform different actions:
 
-Edit Permissions - This user can create, edit and delete quizzes, questions and answers. 
-View Permissions - This user can only view the quizzes, questions and answers. 
-Restricted Permissions - This user can only view questions. 
+1. Edit Permissions - This user can create, edit and delete quizzes, questions and answers.
+
+
+2. View Permissions - This user can only view the quizzes, questions and answers. 
+
+
+3. Restricted Permissions - This user can only view questions. 
+
+
 
 SET UP
   1. Add the files to a new directory.
@@ -18,15 +24,21 @@ SET UP
 
 LOGIN DETAILS
 
-Edit Account
-Username = Tom
-Password = password
+1. Edit Account
+  
+    Username = Tom
 
-View Account
-Username = Dan
-Password = password
+    Password = password
 
-Restricted Account
-Username = Simon
-Password = password
+2. View Account
+  
+    Username = Dan
+
+    Password = password
+
+3. Restricted Account
+  
+    Username = Simon
+
+    Password = password
  
