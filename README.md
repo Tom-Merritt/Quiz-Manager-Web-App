@@ -11,7 +11,7 @@ In short, the application will be used to manage and view quizzes and their asso
 2. View Permissions - This user can only view the quizzes, questions and answers. 
 
 
-3. Restricted Permissions - This user can only view questions. 
+3. Restricted Permissions - This user can only view the quizzes and their questions. 
 
 
 
@@ -41,4 +41,3 @@ LOGIN DETAILS
     Username = Simon
 
     Password = password
- 
